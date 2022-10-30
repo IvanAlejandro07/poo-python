@@ -1,7 +1,7 @@
 #polimorfismo#
 
 #Herencia: es tal cual la funcion#
-#polimorfismo: el como la herencia pero modificamos las cosas por ejemplo las funciones#
+#polimorfismo: es como la herencia pero modificamos las cosas por ejemplo las funciones#
 
 class Persona():
 
